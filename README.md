@@ -1,0 +1,2 @@
+# sel-en-afet-simulasyonu
+
