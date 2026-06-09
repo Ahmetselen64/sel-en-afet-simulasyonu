@@ -42,7 +42,7 @@ Oyuncu, evinin içinde aniden başlayan bir sel felaketiyle karşı karşıyadı
 | <img width="1916" height="835" alt="Ekran görüntüsü 2026-06-09 204344" src="https://github.com/user-attachments/assets/77cf34e5-bebb-4b5e-9526-f6e97d12a2bd" /> | <img width="1918" height="835" alt="Ekran görüntüsü 2026-06-09 204410" src="https://github.com/user-attachments/assets/b8313872-ae63-40a2-97a8-031cdc166598" />
  |
 
-| 🌊 Yükselen Sular ve Ev Atmosferi | 🏆 Skor ve Liderlik Tablosu |
+| 🌊 Yükselen Sular ve Ev Atmosferi 
 |---|---|
 | <img width="1918" height="837" alt="Ekran görüntüsü 2026-06-09 204457" src="https://github.com/user-attachments/assets/eaafd8e0-43bc-4d9d-8b26-52cef4c0c07d" />
 | 🏆 Skor ve Liderlik Tablosu |
