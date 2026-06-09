@@ -1,3 +1,4 @@
+<img width="1916" height="835" alt="Ekran görüntüsü 2026-06-09 204344" src="https://github.com/user-attachments/assets/77cf34e5-bebb-4b5e-9526-f6e97d12a2bd" />
 # Sel-en: Afet Simülasyonu 🌊
 
 Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri (YBS) bölümü Dönem Sonu Projesi kapsamında geliştirilmiş, 3D birinci şahıs (FPS) afet yönetimi ve hayatta kalma simülasyonudur.
