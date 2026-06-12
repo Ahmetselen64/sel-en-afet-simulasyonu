@@ -10,7 +10,7 @@ Bu proje; olası bir sel felaketi anında kısıtlı zaman altında doğru refle
 ## 🎥 Tanıtım ve Oynanış Videosu
 Projenin detaylı anlatımını, pedagojik altyapısını ve tüm mekaniklerinin oynanışını içeren sunum videosuna aşağıdaki linkten ulaşabilirsiniz:
 
-▶️ **[Sel-en Afet Simülasyonu Sunum ve Oynanış Videosunu İzlemek İçin Tıklayın](https://youtu.be/Po0lXDSfGyc)**
+▶️ **[Sel-en Afet Simülasyonu Sunum ve Oynanış Videosunu İzlemek İçin Tıklayın](https://youtu.be/Hknvszl3kFc)**
 
 ---
 
